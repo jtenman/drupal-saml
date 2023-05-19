@@ -23,7 +23,7 @@
     "require": {
         "drupal/core": "^9.3 || ^10",
         "drupal/externalauth": "^2.0",
-        "lightsaml/lightsaml": "^1.4"
+        "lightsaml/lightsaml": "^2.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.5"

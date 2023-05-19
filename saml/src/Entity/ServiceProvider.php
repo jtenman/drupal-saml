@@ -11,7 +11,7 @@ namespace Drupal\saml\Entity;
  *   entity_keys = {
  *     "id" = "id",
  *     "label" = "label"
- *   }
+ *   },
  *   config_export = {
  *     "id",
  *     "label",
